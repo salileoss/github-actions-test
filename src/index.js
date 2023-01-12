@@ -17,6 +17,8 @@ window.onload = () => {
   const player = document.getElementById('player')
   // some changes
   // some other changes
+  // some other changes
+
   player.innerText = game.player
 
   document.querySelectorAll('td').forEach((el) => {
