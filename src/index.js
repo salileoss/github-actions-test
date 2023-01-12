@@ -15,6 +15,7 @@ window.onload = () => {
   const game = new Game(p1, p2)
   const turn = document.getElementById('turn')
   const player = document.getElementById('player')
+
   // some changes
   // some other changes
   // some other changes
